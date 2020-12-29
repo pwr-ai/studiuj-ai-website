@@ -9,26 +9,26 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
-  url = "post"
+  name = "AI"
+  url = "ai"
   weight = 20
 
 [[main]]
-  name = "People"
-  url = "people"
+  name = "Rekrutacja"
+  url = "rekrutacja.pwr.edu.pl"
   weight = 30
 
 [[main]]
-  name = "Events"
-  url = "event"
+  name = "Kursy"
+  url = "kursy"
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "publication"
+  name = "Kadra"
+  url = "kadra"
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Projekty"
   url = "contact"
   weight = 60
