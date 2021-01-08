@@ -25,8 +25,8 @@ design:
 ### Semestr I
 
 | Kurs                                                 | W | Ć | L | P | S | rodzaj | ECTS |
-|------------------------------------------------------|---|---|---|---|---|----------------
-| Język obcy                                           |   | 3 |   |   |   | obow.  | 2    |
+|------------------------------------------------------|---|---|---|---|---|--------|------|
+| Język angielski                                      |   | 3 |   |   |   | obow.  | 2    |
 | Probabilistyczne modele grafowe                      | 2 |   | 2 |   |   | obow.  | 6    |
 | Głębokie sieci neuronowe                             | 2 |   | 2 |   |   | obow.  | 6    |
 | Uczenie maszynowe                                    | 2 |   | 2 |   |   | obow.  | 5    |
@@ -36,27 +36,26 @@ design:
 | Metodyka prowadzenia projektów naukowo-wdrożeniowych | 1 |   |   |   |   | obow.  | 1    |
 | Przetwarzanie danych i odkrywanie wiedzy             | 1 |   | 1 |   |   | obow.  | 3    |
 | Projekt naukowo-wdrożeniowy                          |   |   |   | 2 |   | obow.  | 2    |
-
 ### Semestr II
 
-Moduł | Kurs                                                 | W | Ć | L | P | S | rodzaj | ECTS |
-------|------------------------------------------------------|---|---|---|---|---|----------------
-      | Język obcy                                           |   | 2 |   |   |   | obow.  | 1    |
-      | Zaawansowane modele sieci głębokich                  | 2 |   | 1 |   |   | obow.  | 6    |
-      | Przetwarzanie języka naturalnego                     | 2 |   | 2 |   |   | obow.  | 6    |
-      | Projekt naukowo-wdrożeniowy                          |   |   |   | 2 |   | obow.  | 2    |
-V     | Przetwrzanie danych masowych                         | 2 |   | 2 |   |   | wyb.   | 4    |
-V     | Przetważanie danych złożonych                        | 2 |   | 2 |   |   | wyb.   | 4    |
-IV    | Analiza i przetwarzanie dźwięku                      | 2 |   | 2 |   |   | wyb.   | 5    |
-IV    | Analiza i przetwarzanie obrazów i wideo              | 2 |   | 2 |   |   | wyb.   | 5    |
-VI    | Innowacje i przedsiębiorczość w Sztucznej Inteligencji|1 |   |   | 1 |   | wyb.   | 2    |
-VI    | Biznes i technologia w przedsiębiorstwach sztucznej inteligencji|1| | |1| | wyb.  | 2    |
-III   | Analiza mediów cyfrowych                             | 1 |   | 1 |   |   | wyb.   | 2    |
-III   | Metody analizy sieci złożonych                       |   |   |   | 2 |   | wyb.   | 2    |
-II    | Informatyka Afektywna                                |   |   |   | 2 |   | wyb.   | 2    |
-II    | Przetwarzanie danych przestrzennych                  |   |   |   | 2 |   | wyb.   | 2    |
-I     | Uczenie reprezentacji                                | 1 |   | 1 |   |   | wyb.   | 3    |
-I     | Systemy rekomendacyjne i personalizacja              | 1 |   | 1 |   |   | wyb.   | 3    |
+|Moduł | Kurs                                                 | W | Ć | L | P | S | rodzaj | ECTS |
+|------|------------------------------------------------------|---|---|---|---|---|----------------
+|      | Język obcy                                           |   | 2 |   |   |   | obow.  | 1    |
+|      | Zaawansowane modele sieci głębokich                  | 2 |   | 1 |   |   | obow.  | 6    |
+|      | Przetwarzanie języka naturalnego                     | 2 |   | 2 |   |   | obow.  | 6    |
+|      | Projekt naukowo-wdrożeniowy                          |   |   |   | 2 |   | obow.  | 2    |
+| V    | Przetwrzanie danych masowych                         | 2 |   | 2 |   |   | wyb.   | 4    |
+| V    | Przetważanie danych złożonych                        | 2 |   | 2 |   |   | wyb.   | 4    |
+| IV   | Analiza i przetwarzanie dźwięku                      | 2 |   | 2 |   |   | wyb.   | 5    |
+| IV   | Analiza i przetwarzanie obrazów i wideo              | 2 |   | 2 |   |   | wyb.   | 5    |
+| VI   | Innowacje i przedsiębiorczość w Sztucznej Inteligencji|1 |   |   | 1 |   | wyb.   | 2    |
+| VI   | Biznes i technologia w przedsiębiorstwach sztucznej inteligencji|1| | |1| | wyb.  | 2    |
+| III  | Analiza mediów cyfrowych                             | 1 |   | 1 |   |   | wyb.   | 2    |
+| III  | Metody analizy sieci złożonych                       |   |   |   | 2 |   | wyb.   | 2    |
+| II   | Informatyka Afektywna                                |   |   |   | 2 |   | wyb.   | 2    |
+| II   | Przetwarzanie danych przestrzennych                  |   |   |   | 2 |   | wyb.   | 2    |
+| I    | Uczenie reprezentacji                                | 1 |   | 1 |   |   | wyb.   | 3    |
+| I    | Systemy rekomendacyjne i personalizacja              | 1 |   | 1 |   |   | wyb.   | 3    |
 
 
 ### Semestr III
