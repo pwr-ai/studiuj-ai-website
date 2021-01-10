@@ -45,37 +45,37 @@ design:
 
 <center>
 
-|Moduł wybieralny | Kurs                                                               | W | Ć | L | P | S | rodzaj | ECTS |Moduł wybieralny |
-|:---------------:|--------------------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:------:|:----:|:---------------:|
-|                 | Język obcy                                                         |   | 2 |   |   |   | obow.  | 1    |                 |
-|                 | Zaawansowane modele sieci głębokich                                | 2 |   |   |   | 1 | obow.  | 6    |                 |
-|                 | Przetwarzanie języka naturalnego                                   | 2 |   | 2 |   |   | obow.  | 6    |                 |
-|                 | Projekt naukowo-wdrożeniowy                                        |   |   |   | 2 |   | obow.  | 2    |                 |
-| VI              | Innowacje i przedsiębiorczość w Sztucznej Inteligencji             | 1 |   |   | 1 |   | wyb.   | 2    | VI              |
-| VI              | Biznes i technologia w przedsiębiorstwach sztucznej inteligencji   | 1 |   |   | 1 |   | wyb.   | 2    | VI              |
-| V               | Przetwrzanie danych masowych                                       | 2 |   | 2 |   |   | wyb.   | 4    | V               |
-| V               | Przetważanie danych złożonych                                      | 2 |   | 2 |   |   | wyb.   | 4    | V               |
-| IV              | Analiza i przetwarzanie dźwięku                                    | 2 |   | 2 |   |   | wyb.   | 5    | IV              |
-| IV              | Analiza i przetwarzanie obrazów i wideo                            | 2 |   | 2 |   |   | wyb.   | 5    | IV              |
-| III             | Analiza mediów cyfrowych                                           | 1 |   | 1 |   |   | wyb.   | 2    | III             |
-| III             | Metody analizy sieci złożonych                                     | 1 |   | 1 |   |   | wyb.   | 2    | III             |
-| II              | Informatyka Afektywna                                              | 1 |   | 1 |   |   | wyb.   | 2    | II              |
-| II              | Przetwarzanie danych przestrzennych                                | 1 |   | 1 |   |   | wyb.   | 2    | II              |
-| I               | Uczenie reprezentacji                                              | 1 |   | 1 |   |   | wyb.   | 3    | I               |
-| I               | Systemy rekomendacyjne i personalizacja                            | 1 |   | 1 |   |   | wyb.   | 3    | I               |
+| Kurs                                                               | W | Ć | L | P | S | rodzaj | ECTS |Moduł wybieralny |
+|--------------------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:------:|:----:|:---------------:|
+| Język obcy                                                         |   | 2 |   |   |   | obow.  | 1    |                 |
+| Zaawansowane modele sieci głębokich                                | 2 |   |   |   | 1 | obow.  | 6    |                 |
+| Przetwarzanie języka naturalnego                                   | 2 |   | 2 |   |   | obow.  | 6    |                 |
+| Projekt naukowo-wdrożeniowy                                        |   |   |   | 2 |   | obow.  | 2    |                 |
+| Innowacje i przedsiębiorczość w Sztucznej Inteligencji             | 1 |   |   | 1 |   | wyb.   | 2    | VI              |
+| Biznes i technologia w przedsiębiorstwach sztucznej inteligencji   | 1 |   |   | 1 |   | wyb.   | 2    | VI              |
+| Przetwrzanie danych masowych                                       | 2 |   | 2 |   |   | wyb.   | 4    | V               |
+| Przetważanie danych złożonych                                      | 2 |   | 2 |   |   | wyb.   | 4    | V               |
+| Analiza i przetwarzanie dźwięku                                    | 2 |   | 2 |   |   | wyb.   | 5    | IV              |
+| Analiza i przetwarzanie obrazów i wideo                            | 2 |   | 2 |   |   | wyb.   | 5    | IV              |
+| Analiza mediów cyfrowych                                           | 1 |   | 1 |   |   | wyb.   | 2    | III             |
+| Metody analizy sieci złożonych                                     | 1 |   | 1 |   |   | wyb.   | 2    | III             |
+| Informatyka Afektywna                                              | 1 |   | 1 |   |   | wyb.   | 2    | II              |
+| Przetwarzanie danych przestrzennych                                | 1 |   | 1 |   |   | wyb.   | 2    | II              |
+| Uczenie reprezentacji                                              | 1 |   | 1 |   |   | wyb.   | 3    | I               |
+| Systemy rekomendacyjne i personalizacja                            | 1 |   | 1 |   |   | wyb.   | 3    | I               |
 </center>
 
 ### Semestr III
 
 <center>
 
-| Moduł wybieralny | Kurs                                                         | W | Ć | L | P  | S | rodzaj | ECTS |
-|:----------------:|--------------------------------------------------------------|:-:|:-:|:-:|:--:|:-:|:------:|:----:|
-|                  | Aspekty prawne, społeczne i etyczne w sztucznej inteligencji | 1 |   |   | 1  |   | obow.  | 2    |
-|                  | Wizualizacja danych i komunikowanie                          | 1 |   |   | 1  |   | obow.  | 6    |
-|                  | Seminarium dyplomowe                                         |   |   |   |    | 2 | obow.  | 2    |
-|                  | Praca dyplomowa                                              |   |   |   | 10 |   | obow.  | 2    |
-|                  | Projekt naukowo-wdrożeniowy                                  |   |   |   | 2  |   | obow.  | 2    |
-| VII              | Zastosowania technik rozmytych                               | 1 |   | 1 |    |   | wyb.   | 3    |
-| VII              | Eksploracja danych językowych                                | 1 |   | 1 |    |   | wyb.   | 3    |
+| Kurs                                                         | W | Ć | L | P  | S | rodzaj | ECTS | Moduł wybieralny |
+|--------------------------------------------------------------|:-:|:-:|:-:|:--:|:-:|:------:|:----:|:----------------:|
+| Aspekty prawne, społeczne i etyczne w sztucznej inteligencji | 1 |   |   | 1  |   | obow.  | 2    |                  |
+| Wizualizacja danych i komunikowanie                          | 1 |   |   | 1  |   | obow.  | 6    |                  |
+| Seminarium dyplomowe                                         |   |   |   |    | 2 | obow.  | 2    |                  |
+| Praca dyplomowa                                              |   |   |   | 10 |   | obow.  | 2    |                  |
+| Projekt naukowo-wdrożeniowy                                  |   |   |   | 2  |   | obow.  | 2    |                  |
+| Zastosowania technik rozmytych                               | 1 |   | 1 |    |   | wyb.   | 3    | VII              |
+| Eksploracja danych językowych                                | 1 |   | 1 |    |   | wyb.   | 3    | VII              |
 </center>
