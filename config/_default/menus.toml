@@ -9,18 +9,18 @@
 #  weight = 10
 
 [[main]]
-  name = "AI"
-  url = "ai"
+  name = "Studia AI"
+  url = "/#ai"
   weight = 20
 
 [[main]]
   name = "Rekrutacja"
-  url = "rekrutacja.pwr.edu.pl"
+  url = "https://rekrutacja.pwr.edu.pl/"
   weight = 30
 
 [[main]]
   name = "Kursy"
-  url = "kursy"
+  url = "/#courses"
   weight = 40
 
 [[main]]
