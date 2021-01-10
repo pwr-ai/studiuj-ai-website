@@ -8,7 +8,7 @@ weight = 5  # Order that this section will appear.
 title = "Studiuj Sztuczną Inteligecję @ PWr"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-<!-- hero_media = "hero-academic.png" -->
+hero_media = "hero-academic.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
