@@ -6,7 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Studiuj Sztuczną Inteligencję @ PWr"
+title: ""
 subtitle: ""
 
 design:
@@ -25,5 +25,6 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
+# Studiuj Sztuczną Inteligencję @ PWr
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Dni otwarte magisterskich kierunków Sztucznej Inteligencji i Zaufanych Sytemów Sztucznej Inteligencji na Politechnice Wrocławskiej
