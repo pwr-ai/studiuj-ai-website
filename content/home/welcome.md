@@ -1,7 +1,7 @@
 ---
-# advanced:
+advanced:
 #   css_style: null
-#   css_class: fullscreen
+  css_class: fullscreen
 widget: blank
 widget_id: welcome-image
 headless: true
