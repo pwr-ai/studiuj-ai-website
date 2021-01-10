@@ -1,27 +1,23 @@
 ---
-cta_note:
-  label: <a class="js-github-release"
-    href="https://sourcethemes.com/academic/updates"
-    data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>
 widget: hero
 active: true
 cta:
-  url: https://sourcethemes.com/academic/docs/install/
-  label: Get Started
+  url: https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/sztuczna-inteligencja-w8-ii-st-10493.html
+  label: Rekrutacja
   icon_pack: fas
-  icon: download
+  icon: sign-in-alt
 widget_id: banner
 headless: true
 weight: 5
 title: Studiuj Sztuczną Inteligecję @ PWr
 cta_alt:
   url: https://sourcethemes.com/academic/
-  label: View Documentation
+  label: Zobacz kursy
 design:
   background:
     gradient_start: "#000000"
-    gradient_end: "#2d0300"
+    gradient_end: "#203651"
     text_color_light: true
-hero_media: hero-academic.png
+hero_media: kio_logo.png
 ---
 Chcesz wykonywać najbardziej pożądany zawód IT XXI wieku? Politechnika Wrocławska zaprasza do studiowania nowego kierunku: **Sztuczna Inteligencja!**
