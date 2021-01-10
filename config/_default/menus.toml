@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Studia AI"
-  url = "/#ai"
+  url = "/#studia_ai"
   weight = 20
 
 [[main]]
@@ -25,10 +25,10 @@
 
 [[main]]
   name = "Kadra"
-  url = "kadra"
+  url = "/#people"
   weight = 50
 
 [[main]]
-  name = "Projekty"
-  url = "contact"
+  name = "Kontakt"
+  url = "/#contact"
   weight = 60

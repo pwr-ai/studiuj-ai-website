@@ -11,7 +11,7 @@ headless: true
 weight: 5
 title: Studiuj Sztuczną Inteligecję @ PWr
 cta_alt:
-  url: https://sourcethemes.com/academic/
+  url: "/#courses"
   label: Zobacz kursy
 design:
   background:
