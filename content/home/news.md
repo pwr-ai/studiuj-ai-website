@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Kierunek Sztuczna Inteligencja
 subtitle:
 
 content:
