@@ -1,6 +1,6 @@
 ---
 title: Dlaczego sztuczna inteligencja?
-date: 
+date: "2021-01-03"
 ---
 
 Krótko odpowiadamy dlaczego warto studiować Sztuczną Intelgencję na Politechnice Wrocławskiej.

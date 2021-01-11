@@ -1,6 +1,6 @@
 ---
 title: Założenia kierunku
-date: 
+date: "2021-01-07"
 ---
 
 Podstawowe informacje, założenia i nasza wizja kierunku.

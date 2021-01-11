@@ -3,8 +3,9 @@
 widget: pages
 headless: true
 weight: 20
+active: true
 
-title: Kierunek Sztuczna Inteligencja
+title: O kierunku Sztuczna Inteligencja
 subtitle:
 
 content:

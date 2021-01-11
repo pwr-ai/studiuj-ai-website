@@ -2,6 +2,8 @@
 widget: blank
 widget_id: studia_ai
 headless: true
+active: false
+
 weight: 14
 title: Kierunek Sztuczna Inteligencja
 subtitle: ""

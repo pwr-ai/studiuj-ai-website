@@ -1,6 +1,6 @@
 ---
 title: Projekt AI TECH
-date: 
+date: "2021-01-11"
 ---
 
 Kierunek Sztuczna Inteligencja jest realizowany w ramach projektu AI TECH.
