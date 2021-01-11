@@ -63,6 +63,7 @@ design:
 | Przetwarzanie danych przestrzennych                                | 1 |   | 1 |   |   | wyb.   | 2    | II              |
 | Uczenie reprezentacji                                              | 1 |   | 1 |   |   | wyb.   | 3    | I               |
 | Systemy rekomendacyjne i personalizacja                            | 1 |   | 1 |   |   | wyb.   | 3    | I               |
+
 </center>
 
 ### Semestr III
@@ -78,4 +79,5 @@ design:
 | Projekt naukowo-wdrożeniowy                                  |   |   |   | 2  |   | obow.  | 2    |                  |
 | Zastosowania technik rozmytych                               | 1 |   | 1 |    |   | wyb.   | 3    | VII              |
 | Eksploracja danych językowych                                | 1 |   | 1 |    |   | wyb.   | 3    | VII              |
+
 </center>
