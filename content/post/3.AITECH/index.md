@@ -7,7 +7,7 @@ Kierunek Sztuczna Inteligencja jest realizowany w ramach projektu AI TECH.
 
 <!--more-->
 
-Politechnika Wrocławska, wspólnie z 4 innymi uczelniami wyższymi z Polski, przystąpiła do realizacji projektu [AI TECH - Akademia Innowacyjnych Zastosowań Technologii Cyfrowych](https://www.gov.pl/web/cyfryzacja/bedziemy-ksztalcic-najlepszych-specjalistow-cyfrowej-gospodarki).
+Politechnika Wrocławska, wspólnie z 5 innymi uczelniami wyższymi z Polski, przystąpiła do realizacji projektu [AI TECH - Akademia Innowacyjnych Zastosowań Technologii Cyfrowych](https://www.gov.pl/web/cyfryzacja/bedziemy-ksztalcic-najlepszych-specjalistow-cyfrowej-gospodarki).
 Celem głównym tego projektu jest stworzenie modelu systemowego kształcenia wysokiej klasy specjalistów w zakresie sztucznej inteligencji, uczenia maszynowego oraz cyberbezpieczeństwa. Projekt finansowany jest ze środków Programu Operacyjnego Polska Cyfrowa na lata 2014-2020 (działanie 3.2: Innowacyjne rozwiązania na rzecz aktywizacji cyfrowej, III oś priorytetowa: cyfrowe kompetencje społeczeństwa).
 
 Projekt dla każdego studenta sfinansuje:
