@@ -53,8 +53,8 @@ design:
 | Projekt naukowo-wdrożeniowy                                        |   |   |   | 2 |   | obow.  | 2    |                 |
 | Innowacje i przedsiębiorczość w Sztucznej Inteligencji             | 1 |   |   | 1 |   | wyb.   | 2    | VI              |
 | Biznes i technologia w przedsiębiorstwach sztucznej inteligencji   | 1 |   |   | 1 |   | wyb.   | 2    | VI              |
-| Przetwrzanie danych masowych                                       | 2 |   | 2 |   |   | wyb.   | 4    | V               |
-| Przetważanie danych złożonych                                      | 2 |   | 2 |   |   | wyb.   | 4    | V               |
+| Przetwarzanie danych masowych                                      | 2 |   | 2 |   |   | wyb.   | 4    | V               |
+| Przetwarzanie danych złożonych                                     | 2 |   | 2 |   |   | wyb.   | 4    | V               |
 | Analiza i przetwarzanie dźwięku                                    | 2 |   | 2 |   |   | wyb.   | 5    | IV              |
 | Analiza i przetwarzanie obrazów i wideo                            | 2 |   | 2 |   |   | wyb.   | 5    | IV              |
 | Analiza mediów cyfrowych                                           | 1 |   | 1 |   |   | wyb.   | 2    | III             |
