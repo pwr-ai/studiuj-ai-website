@@ -9,7 +9,7 @@ cta:
 widget_id: banner
 headless: true
 weight: 5
-title: Studiuj Sztuczną Inteligecję @ PWr
+title: Studiuj Sztuczną Inteligencję @ PWr
 cta_alt:
   url: "/#courses"
   label: Zobacz kursy
