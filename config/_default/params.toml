@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Katedra Inteligencji Obliczeniowej"
+org_name = "Katedra Sztucznek Inteligencji"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "Katedra Sztucznej Inteligencji"
 
 ############################
 ## Site Features
@@ -84,8 +84,8 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "kio@pwr.edu.pl"
-phone = "+48 71 320 3516"
+email = "ai@pwr.edu.pl"
+phone = "+48 71 320 2454"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -96,19 +96,19 @@ address = {street = "Wybrzeże Wyspiańskiego 27", city = "Wrocław", region = "
 coordinates = {latitude = "51.109838", longitude = "17.057482"}
 
 # Directions for visitors to locate you.
-directions = "D2 201/6 (2 piętro)"
+directions = "D21 (2 piętro)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 # office_hours = ["9:00 to 17:00 Monday to Friday"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-{icon = "twitter", icon_pack = "fab", name = "@kiopwr", link = "https://twitter.com/kiopwr"},
+{icon = "twitter", icon_pack = "fab", name = "@PWrAILab", link = "https://twitter.com/PWrAILab"},
 
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
@@ -124,7 +124,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "kiopwr"
+twitter = "PWrAILab"
 
 ############################
 ## Regional Settings
