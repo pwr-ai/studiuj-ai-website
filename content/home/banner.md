@@ -18,6 +18,6 @@ design:
     gradient_start: "#000000"
     gradient_end: "#203651"
     text_color_light: true
-hero_media: ai_logo.png
+hero_media: KSI_logo_color_h_pl_med.png
 ---
 Chcesz wykonywać najbardziej pożądany zawód IT XXI wieku? Politechnika Wrocławska zaprasza do studiowania nowego kierunku: **Sztuczna Inteligencja!**
