@@ -28,16 +28,15 @@ design:
 
 | Kurs                                                 | W | Ć | L | P | S | rodzaj | ECTS |
 |------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:------:|:----:|
-| Język angielski                                      |   | 3 |   |   |   | obow.  | 2    |
+| Metodyka prowadzenia projektów naukowo-wdrożeniowych | 1 |   |   |   |   | obow.  | 2    |
+| Sieci złożone                                        | 1 |   | 1 |   |   | obow.  | 2    |
+| Podstawy optymalizacji                               | 1 |   |   |   |   | obow.  | 1    |
 | Probabilistyczne modele grafowe                      | 2 |   | 2 |   |   | obow.  | 6    |
 | Głębokie sieci neuronowe                             | 2 |   | 2 |   |   | obow.  | 6    |
 | Uczenie maszynowe                                    | 2 |   | 2 |   |   | obow.  | 5    |
-| Metaheurystyki                                       | 2 |   | 2 |   |   | obow.  | 4    |
-| Komputery i algorytmy kwantowe                       | 1 |   |   |   |   | obow.  | 1    |
-| Podstawy optymalizacji                               | 1 |   |   |   |   | obow.  | 1    |
-| Metodyka prowadzenia projektów naukowo-wdrożeniowych | 1 |   |   |   |   | obow.  | 1    |
 | Przetwarzanie danych i odkrywanie wiedzy             | 1 |   | 1 |   |   | obow.  | 3    |
-| Projekt naukowo-wdrożeniowy                          |   |   |   | 2 |   | obow.  | 2    |
+| Uczenie reprezentacji                                | 1 |   | 1 |   |   | obow.  | 3    |
+| Projekt naukowo-wdrożeniowy 1                        |   |   |   | 2 |   | obow.  | 2    |
 
 </center>
 
@@ -45,24 +44,18 @@ design:
 
 <center>
 
-| Kurs                                                               | W | Ć | L | P | S | rodzaj | ECTS |Moduł wybieralny |
-|--------------------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:------:|:----:|:---------------:|
-| Język obcy                                                         |   | 2 |   |   |   | obow.  | 1    |                 |
-| Zaawansowane modele sieci głębokich                                | 2 |   |   |   | 1 | obow.  | 6    |                 |
-| Przetwarzanie języka naturalnego                                   | 2 |   | 2 |   |   | obow.  | 6    |                 |
-| Projekt naukowo-wdrożeniowy                                        |   |   |   | 2 |   | obow.  | 2    |                 |
-| Innowacje i przedsiębiorczość w Sztucznej Inteligencji             | 1 |   |   | 1 |   | wyb.   | 2    | VI              |
-| Biznes i technologia w przedsiębiorstwach sztucznej inteligencji   | 1 |   |   | 1 |   | wyb.   | 2    | VI              |
-| Przetwarzanie danych masowych                                      | 2 |   | 2 |   |   | wyb.   | 4    | V               |
-| Przetwarzanie danych złożonych                                     | 2 |   | 2 |   |   | wyb.   | 4    | V               |
-| Analiza i przetwarzanie dźwięku                                    | 2 |   | 2 |   |   | wyb.   | 5    | IV              |
-| Analiza i przetwarzanie obrazów i wideo                            | 2 |   | 2 |   |   | wyb.   | 5    | IV              |
-| Analiza mediów cyfrowych                                           | 1 |   | 1 |   |   | wyb.   | 2    | III             |
-| Metody analizy sieci złożonych                                     | 1 |   | 1 |   |   | wyb.   | 2    | III             |
-| Informatyka Afektywna                                              | 1 |   | 1 |   |   | wyb.   | 2    | II              |
-| Przetwarzanie danych przestrzennych                                | 1 |   | 1 |   |   | wyb.   | 2    | II              |
-| Uczenie reprezentacji                                              | 1 |   | 1 |   |   | wyb.   | 3    | I               |
-| Systemy rekomendacyjne i personalizacja                            | 1 |   | 1 |   |   | wyb.   | 3    | I               |
+| Kurs                                                               | W | Ć | L | P | S | rodzaj | ECTS |
+|--------------------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:------:|:----:|
+| Język obcy                                                         |   | 1 |   |   |   | obow.  | 1    |
+| Praca dyplomowa 1                                                  |   |   |   | 2 |   | obow.  | 2    |
+| Przetwarzanie języka naturalnego                                   | 2 |   | 2 |   |   | obow.  | 6    |
+| Projekt naukowo-wdrożeniowy 2                                      |   |   |   | 2 |   | obow.  | 2    |
+| Przedmiot wybieralny z Bloku 1                                     | 1 |   | 1 |   |   | wyb.   | 3    |
+| Przedmiot wybieralny z Bloku 1                                     | 1 |   | 1 |   |   | wyb.   | 3    |
+| Przedmiot wybieralny z Bloku 1                                     | 1 |   | 1 |   |   | wyb.   | 3    |
+| Przedmiot wybieralny z Bloku 2                                     | 2 |   | 2 |   |   | wyb.   | 4    |
+| Przedmiot wybieralny z Bloku 2                                     | 2 |   | 2 |   |   | wyb.   | 4    |
+| Przedmiot wybieralny z Bloku 3                                     | 1 |   |   | 1 |   | wyb.   | 3    |
 
 </center>
 
@@ -70,14 +63,39 @@ design:
 
 <center>
 
-| Kurs                                                         | W | Ć | L | P  | S | rodzaj | ECTS | Moduł wybieralny |
-|--------------------------------------------------------------|:-:|:-:|:-:|:--:|:-:|:------:|:----:|:----------------:|
-| Aspekty prawne, społeczne i etyczne w sztucznej inteligencji | 1 |   |   | 1  |   | obow.  | 2    |                  |
-| Wizualizacja danych i komunikowanie                          | 1 |   |   | 1  |   | obow.  | 6    |                  |
-| Seminarium dyplomowe                                         |   |   |   |    | 2 | obow.  | 2    |                  |
-| Praca dyplomowa                                              |   |   |   | 10 |   | obow.  | 2    |                  |
-| Projekt naukowo-wdrożeniowy                                  |   |   |   | 2  |   | obow.  | 2    |                  |
-| Zastosowania technik rozmytych                               | 1 |   | 1 |    |   | wyb.   | 3    | VII              |
-| Eksploracja danych językowych                                | 1 |   | 1 |    |   | wyb.   | 3    | VII              |
+| Kurs                                                         | W | Ć | L | P  | S | rodzaj | ECTS |
+|--------------------------------------------------------------|:-:|:-:|:-:|:--:|:-:|:------:|:----:|
+| Wizualizacja danych i komunikowanie                          | 1 |   |   | 1  |   | obow.  | 3    |
+| Projekt naukowo-wdrożeniowy 3                                |   |   |   | 2  |   | obow.  | 2    |
+| Język obcy                                                   |   | 2 |   |    |   | obow.  | 2    |
+| Seminarium dyplomowe                                         |   |   |   |    | 2 | obow.  | 2    |
+| Praca dyplomowa 2                                            |   |   |   | 10 |   | obow.  | 16   |
+| Przedmiot wybieralny z Bloku 2                               | 2 |   | 2 |    |   | wyb.   | 4    |
+
+</center>
+
+### Bloki wybieralne
+
+<center>
+
+| Blok | Kurs                                                               |
+|------|:------------------------------------------------------------------:|
+|  1   | Systemy rekomendacyjne i personalizacja                            |
+|  1   | Informatyka Afektywna                                              |
+|  1   | Przetwarzanie danych przestrzennych                                |
+|  1   | Analiza mediów cyfrowych                                           |
+|  1   | Zastosowania technik rozmytych                                     |
+|  1   | Eksploracja danych językowych                                      |
+|  2   | Metaheurystyki                                                     |
+|  2   | Analiza i przetwarzanie dźwięku                                    |
+|  2   | Analiza i przetwarzanie obrazów i wideo                            |
+|  2   | Przetwarzanie danych masowych                                      |
+|  2   | Przetwarzanie danych złożonych                                     |
+|  2   | Zaawansowane modele głębokich sieci neuronowych                    |
+|  2   | Techniki ochrony prywatności w przetwarzaniu danych                |
+|  2   | Biometria                                                          |
+|  3   | Innowacje i przedsiębiorczość w Sztucznej Inteligencji             |
+|  3   | Biznes i technologia w przedsiębiorstwach sztucznej inteligencji   |
+|  3   | Aspekty prawne, społeczne i etyczne w sztucznej inteligencji       |
 
 </center>
