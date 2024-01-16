@@ -2,7 +2,7 @@
 widget: hero
 active: true
 cta:
-  url: https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/sztuczna-inteligencja-w8-ii-st-10493.html
+  url: https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/sztuczna-inteligencja/
   label: Rekrutacja
   icon_pack: fas
   icon: sign-in-alt
@@ -20,4 +20,4 @@ design:
     text_color_light: true
 hero_media: KSI_logo_color_h_pl_med.png
 ---
-Chcesz wykonywać najbardziej pożądany zawód IT XXI wieku? Politechnika Wrocławska zaprasza do studiowania nowego kierunku: **Sztuczna Inteligencja!**
+Chcesz wykonywać najbardziej pożądany zawód IT XXI wieku? Zapraszamy na dzień otwarty kierunku Sztuczna Inteligencja - 29 stycznia 2024. Zapisy [tutaj](https://app.evenea.pl/event/opendai-2024/).
