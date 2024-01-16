@@ -1,13 +1,11 @@
-02---
+---
 title: Dzień otwarty Sztucznej Inteligencji - AI day @ PWr
 date: "2023-01-20"
 ---
 
-Zapraszamy na dzień otwarty kierunku Sztuczna Inteligencja.
+Zapraszamy 29 stycznia 2024 na dzień otwarty kierunku Sztuczna Inteligencja. Zapisy na portalu [Evenea](https://app.evenea.pl/event/opendai-2024/).
 
 <!--more-->
-
-Serdecznie zapraszamy na dzień otwarty kierunku Sztuczna Inteligencja - 29 stycznia 2024. Zapisy na portalu [Evenea](https://app.evenea.pl/event/opendai-2024/).
 
 Będzie możliwość porozmawiania bezpośrednio z aktualnymi studentami, absolwentami oraz wykładowcami.
 
