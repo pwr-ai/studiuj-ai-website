@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: ai_day_2023.jpg
+    image: ai_forum.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
