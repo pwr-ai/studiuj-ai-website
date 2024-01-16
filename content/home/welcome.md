@@ -11,7 +11,7 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: header1.jpg
+    image: ai_day_2023.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
