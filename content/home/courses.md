@@ -28,10 +28,10 @@ design:
 
 | Kurs                                                 | W | Ć | L | P | S | rodzaj | ECTS |
 |------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:------:|:----:|
-| Metodyka prowadzenia projektów naukowo-wdrożeniowych | 1 |   |   |   |   | obow.  | 2    |
+| Metodyka prowadzenia projektów naukowo-wdrożeniowych | 1 |   |   |   |   | obow.  | 1    |
 | Sieci złożone                                        | 1 |   | 1 |   |   | obow.  | 2    |
-| Podstawy optymalizacji                               | 1 |   |   |   |   | obow.  | 1    |
-| Probabilistyczne modele grafowe                      | 2 |   | 2 |   |   | obow.  | 6    |
+| Podstawy optymalizacji                               | 2 |   |   |   |   | obow.  | 2    |
+| Probabilistyczne modele grafowe                      | 2 | 1 | 2 |   |   | obow.  | 7    |
 | Głębokie sieci neuronowe                             | 2 |   | 2 |   |   | obow.  | 6    |
 | Uczenie maszynowe                                    | 2 |   | 2 |   |   | obow.  | 5    |
 | Przetwarzanie danych i odkrywanie wiedzy             | 1 |   | 1 |   |   | obow.  | 3    |
@@ -47,15 +47,15 @@ design:
 | Kurs                                                               | W | Ć | L | P | S | rodzaj | ECTS |
 |--------------------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:------:|:----:|
 | Język obcy                                                         |   | 1 |   |   |   | obow.  | 1    |
-| Praca dyplomowa 1                                                  |   |   |   | 2 |   | obow.  | 2    |
+| Praca dyplomowa 1                                                  |   |   |   | 2 |   | obow.  | 3    |
 | Przetwarzanie języka naturalnego                                   | 2 |   | 2 |   |   | obow.  | 6    |
-| Projekt naukowo-wdrożeniowy 2                                      |   |   |   | 2 |   | obow.  | 2    |
-| Przedmiot wybieralny z Bloku 1                                     | 1 |   | 1 |   |   | wyb.   | 3    |
-| Przedmiot wybieralny z Bloku 1                                     | 1 |   | 1 |   |   | wyb.   | 3    |
-| Przedmiot wybieralny z Bloku 1                                     | 1 |   | 1 |   |   | wyb.   | 3    |
+| Projekt naukowo-wdrożeniowy 2                                      |   |   |   | 3 |   | obow.  | 3    |
+| Przedmiot wybieralny z Bloku 1                                     | 1 |   | 1 |   |   | wyb.   | 2    |
+| Przedmiot wybieralny z Bloku 1                                     | 1 |   | 1 |   |   | wyb.   | 2    |
+| Przedmiot wybieralny z Bloku 1                                     | 1 |   | 1 |   |   | wyb.   | 2    |
 | Przedmiot wybieralny z Bloku 2                                     | 2 |   | 2 |   |   | wyb.   | 4    |
 | Przedmiot wybieralny z Bloku 2                                     | 2 |   | 2 |   |   | wyb.   | 4    |
-| Przedmiot wybieralny z Bloku 3                                     | 1 |   |   | 1 |   | wyb.   | 3    |
+| Przedmiot wybieralny z Bloku 3                                     | 1 |   |   | 1 |   | wyb.   | 2    |
 
 </center>
 
@@ -65,12 +65,13 @@ design:
 
 | Kurs                                                         | W | Ć | L | P  | S | rodzaj | ECTS |
 |--------------------------------------------------------------|:-:|:-:|:-:|:--:|:-:|:------:|:----:|
-| Wizualizacja danych i komunikowanie                          | 1 |   |   | 1  |   | obow.  | 3    |
-| Projekt naukowo-wdrożeniowy 3                                |   |   |   | 2  |   | obow.  | 2    |
-| Język obcy                                                   |   | 2 |   |    |   | obow.  | 2    |
+| Wizualizacja danych i komunikowanie                          | 1 |   |   | 1  |   | obow.  | 2    |
+| Projekt naukowo-wdrożeniowy 3                                |   |   |   | 3  |   | obow.  | 3    |
+| Język obcy                                                   |   | 3 |   |    |   | obow.  | 2    |
 | Seminarium dyplomowe                                         |   |   |   |    | 2 | obow.  | 2    |
-| Praca dyplomowa 2                                            |   |   |   | 10 |   | obow.  | 16   |
+| Praca dyplomowa 2                                            |   |   |   | 10 |   | obow.  | 15   |
 | Przedmiot wybieralny z Bloku 2                               | 2 |   | 2 |    |   | wyb.   | 4    |
+| Przedmiot wybieralny z Bloku 3                               | 1 |   |   | 1  |   | wyb.   | 2    |
 
 </center>
 
