@@ -24,8 +24,6 @@ design:
 
 ### Semestr I
 
-<center>
-
 | Kurs                                                 | W | Ć | L | P | S | rodzaj | ECTS |
 |------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:------:|:----:|
 | Metodyka prowadzenia projektów naukowo-wdrożeniowych | 1 |   |   |   |   | obow.  | 1    |
@@ -38,11 +36,7 @@ design:
 | Uczenie reprezentacji                                | 1 |   | 1 |   |   | obow.  | 3    |
 | Projekt naukowo-wdrożeniowy 1                        |   |   |   | 2 |   | obow.  | 2    |
 
-</center>
-
 ### Semestr II
-
-<center>
 
 | Kurs                                                               | W | Ć | L | P | S | rodzaj | ECTS |
 |--------------------------------------------------------------------|:-:|:-:|:-:|:-:|:-:|:------:|:----:|
@@ -57,11 +51,7 @@ design:
 | Przedmiot wybieralny z Bloku 2                                     | 2 |   | 2 |   |   | wyb.   | 4    |
 | Przedmiot wybieralny z Bloku 3                                     | 1 |   |   | 1 |   | wyb.   | 2    |
 
-</center>
-
 ### Semestr III
-
-<center>
 
 | Kurs                                                         | W | Ć | L | P  | S | rodzaj | ECTS |
 |--------------------------------------------------------------|:-:|:-:|:-:|:--:|:-:|:------:|:----:|
@@ -73,11 +63,7 @@ design:
 | Przedmiot wybieralny z Bloku 2                               | 2 |   | 2 |    |   | wyb.   | 4    |
 | Przedmiot wybieralny z Bloku 3                               | 1 |   |   | 1  |   | wyb.   | 2    |
 
-</center>
-
 ### Bloki wybieralne
-
-<center>
 
 | Blok | Kurs                                                               |
 |------|:------------------------------------------------------------------:|
@@ -98,5 +84,4 @@ design:
 |  3   | Innowacje i przedsiębiorczość w Sztucznej Inteligencji             |
 |  3   | Biznes i technologia w przedsiębiorstwach sztucznej inteligencji   |
 |  3   | Aspekty prawne, społeczne i etyczne w sztucznej inteligencji       |
-
-</center>
+  

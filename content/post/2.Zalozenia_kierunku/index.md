@@ -1,6 +1,6 @@
 ---
-title: Założenia kierunku
-date: "2024-01-16"
+title: Założenia kierunku - studia magisterskie
+date: "2025-04-09"
 ---
 
 Podstawowe informacje, założenia i nasza wizja kierunku.

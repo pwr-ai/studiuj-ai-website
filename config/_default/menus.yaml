@@ -1,0 +1,30 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+# main:
+#   - name: "Home"
+#     url: "/"
+#     weight: 10
+
+main:
+  - name: "Studia AI"
+    url: "/#news"
+    weight: 20
+
+  - name: "Rekrutacja"
+    url: "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/sztuczna-inteligencja/"
+    weight: 30
+
+  - name: "Kursy"
+    url: "/#courses"
+    weight: 40
+
+  - name: "Kadra"
+    url: "https://ai.pwr.edu.pl/people"
+    weight: 50
+
+  - name: "Kontakt"
+    url: "/#contact"
+    weight: 60 
