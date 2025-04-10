@@ -65,23 +65,39 @@ design:
 
 ### Bloki wybieralne
 
-| Blok | Kurs                                                               |
-|------|:------------------------------------------------------------------:|
-|  1   | Systemy rekomendacyjne i personalizacja                            |
-|  1   | Informatyka Afektywna                                              |
-|  1   | Przetwarzanie danych przestrzennych                                |
-|  1   | Analiza mediów cyfrowych                                           |
-|  1   | Zastosowania technik rozmytych                                     |
-|  1   | Eksploracja danych językowych                                      |
-|  2   | Metaheurystyki                                                     |
-|  2   | Analiza i przetwarzanie dźwięku                                    |
-|  2   | Analiza i przetwarzanie obrazów i wideo                            |
-|  2   | Przetwarzanie danych masowych                                      |
-|  2   | Przetwarzanie danych złożonych                                     |
-|  2   | Zaawansowane modele głębokich sieci neuronowych                    |
-|  2   | Techniki ochrony prywatności w przetwarzaniu danych                |
-|  2   | Biometria                                                          |
-|  3   | Innowacje i przedsiębiorczość w Sztucznej Inteligencji             |
-|  3   | Biznes i technologia w przedsiębiorstwach sztucznej inteligencji   |
-|  3   | Aspekty prawne, społeczne i etyczne w sztucznej inteligencji       |
+<div class="block-container">
+  <div class="block-group">
+    <h4 class="block-heading">Blok 1</h4>
+    <div class="block-courses">
+      <div class="block-course">Systemy rekomendacyjne i personalizacja</div>
+      <div class="block-course">Informatyka Afektywna</div>
+      <div class="block-course">Przetwarzanie danych przestrzennych</div>
+      <div class="block-course">Analiza mediów cyfrowych</div>
+      <div class="block-course">Zastosowania technik rozmytych</div>
+      <div class="block-course">Eksploracja danych językowych</div>
+    </div>
+  </div>
   
+  <div class="block-group">
+    <h4 class="block-heading">Blok 2</h4>
+    <div class="block-courses">
+      <div class="block-course">Metaheurystyki</div>
+      <div class="block-course">Analiza i przetwarzanie dźwięku</div>
+      <div class="block-course">Analiza i przetwarzanie obrazów i wideo</div>
+      <div class="block-course">Przetwarzanie danych masowych</div>
+      <div class="block-course">Przetwarzanie danych złożonych</div>
+      <div class="block-course">Zaawansowane modele głębokich sieci neuronowych</div>
+      <div class="block-course">Techniki ochrony prywatności w przetwarzaniu danych</div>
+      <div class="block-course">Biometria</div>
+    </div>
+  </div>
+  
+  <div class="block-group">
+    <h4 class="block-heading">Blok 3</h4>
+    <div class="block-courses">
+      <div class="block-course">Innowacje i przedsiębiorczość w Sztucznej Inteligencji</div>
+      <div class="block-course">Biznes i technologia w przedsiębiorstwach sztucznej inteligencji</div>
+      <div class="block-course">Aspekty prawne, społeczne i etyczne w sztucznej inteligencji</div>
+    </div>
+  </div>
+</div>

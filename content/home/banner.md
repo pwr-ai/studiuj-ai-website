@@ -20,4 +20,4 @@ design:
     text_color_light: true
 hero_media: KSI_logo_color_h_pl_med.png
 ---
-Zapraszamy na dzień otwarty kierunku Sztuczna Inteligencja - 27 stycznia 2025. [Szczegóły](/post/3.AI_day)
+Zapraszamy na dzień otwarty kierunku Sztuczna Inteligencja - 27 stycznia 2025. [Szczegóły](/eng-post/3.AI_day)

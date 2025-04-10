@@ -61,7 +61,7 @@ table thead th,
 .wg-hero table thead th,
 .widget table thead th,
 .home-section table thead th {
-  background-color: #2962ff !important;
+  background-color: #5a6268 !important;
   color: white !important;
   font-weight: 600 !important;
   text-align: center !important;
@@ -97,7 +97,7 @@ table tbody tr:hover,
 .wg-hero table tbody tr:hover,
 .widget table tbody tr:hover,
 .home-section table tbody tr:hover {
-  background-color: rgba(41, 98, 255, 0.05) !important;
+  background-color: rgba(90, 98, 104, 0.05) !important;
 }
 
 table tbody td,
@@ -144,5 +144,132 @@ center {
   .home-section table {
     display: block !important;
     overflow-x: auto !important;
+  }
+}
+
+/* Style dla kafelków (tiles) */
+.tile-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.tile {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  padding: 16px;
+  transition: all 0.3s ease;
+  flex: 1 1 240px;
+  min-width: 240px;
+  position: relative;
+  overflow: hidden;
+}
+
+.tile:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.tile-header {
+  margin-bottom: 12px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #5a6268;
+}
+
+.tile-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0;
+  color: #333;
+}
+
+.tile-subtitle {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 5px 0 0 0;
+}
+
+.tile-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.tile-footer {
+  margin-top: 12px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #5a6268;
+}
+
+/* Kontent kursu */
+.course-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 5px;
+}
+
+.course-info {
+  background-color: #f0f0f0;
+  border-radius: 4px;
+  padding: 3px 8px;
+  font-size: 0.8rem;
+  color: #333;
+}
+
+/* Style dla sekcji "Bloki wybieralne" */
+.block-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.block-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex: 1 1 300px;
+}
+
+.block-heading {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  background-color: #5a6268;
+  padding: 10px 15px;
+  border-radius: 6px;
+  margin: 0;
+}
+
+.block-courses {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.block-course {
+  background-color: #fff;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  padding: 12px 15px;
+  transition: all 0.2s ease;
+}
+
+.block-course:hover {
+  background-color: #f0f0f0;
+  transform: translateX(5px);
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+  .tile {
+    flex: 1 1 100%;
+  }
+  
+  .block-group {
+    flex: 1 1 100%;
   }
 }

@@ -1,6 +1,7 @@
 ---
 title: Założenia kierunku - studia inżynierskie
 date: "2024-01-16"
+type: "widget_page"
 ---
 
 Podstawowe informacje, założenia i nasza wizja kierunku inżynierskiego.
@@ -14,4 +15,4 @@ Sztuczna inteligencja @ PWr to unikatowy program łączący solidne podstawy inf
 Podczas studiowania Sztucznej Inteligencji będziesz miał do wyboru trzy różne ścieżki rozwoju:
 - Praktyka zawodowa - zdobędziesz kompetencje pozwalające na rozpoczęcie kariery jako inżynier AI w wiodących firmach technologicznych
 - Kontynuacja nauki - solidne podstawy pozwolą Ci kontynuować edukację na studiach magisterskich, pogłębiając swoją specjalizację
-- Własne projekty - w ramach projektów zespołowych i pracy inżynierskiej będziesz mógł rozwijać własne pomysły z wykorzystaniem sztucznej inteligencji
+- Własne projekty - w ramach projektów zespołowych i pracy inżynierskiej będziesz mógł rozwijać własne pomysły z wykorzystaniem sztucznej inteligencji 

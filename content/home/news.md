@@ -18,7 +18,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  page_type: eng-post
 design:
   view: 3
   columns: "1"
