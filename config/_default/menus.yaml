@@ -9,21 +9,21 @@
 #     weight: 10
 
 main:
-  - name: "Studia AI"
+  - name: "Newsy"
     url: "/#news"
     weight: 20
 
-  - name: "Blog"
-    url: "/blog/"
+  - name: "Inżynierka AI"
+    url: "/eng-post/"
     weight: 25
 
-  - name: "Rekrutacja"
-    url: "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/sztuczna-inteligencja/"
-    weight: 30
+  - name: "Magisterka AI"
+    url: "/master-post/"
+    weight: 28
 
-  - name: "Kursy"
-    url: "/#courses"
-    weight: 40
+  - name: "Rekrutacja"
+    url: "https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/sztuczna_inteligencja/"
+    weight: 30
 
   - name: "Kadra"
     url: "https://ai.pwr.edu.pl/people"

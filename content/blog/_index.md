@@ -1,5 +1,5 @@
 ---
-title: Sztuczna Inteligencja - studia inżynierskie
+title: Studia AI - Newsy
 cms_exclude: true
 
 # View.

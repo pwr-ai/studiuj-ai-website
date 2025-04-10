@@ -1,10 +1,14 @@
 ---
+widget: blank  # See https://wowchemy.com/docs/page-builder/
+headless: true  # This file represents a page section.
+weight: 5  # Order that this section will appear.
 title: Założenia kierunku - studia magisterskie
-date: "2025-04-09"
+design:
+  columns: '1'
 ---
 
-Podstawowe informacje, założenia i nasza wizja kierunku.
 
+Podstawowe informacje, założenia i nasza wizja kierunku
 <!--more-->
 
 Kształcenie na kierunku Sztuczna Inteligencja trwa 3 semestry i kończy się uzyskaniem tytułu zawodowego magistra inżyniera. Studia składają się łącznie z 1050 godzin zajęć teoretycznych i praktycznych. Zajęcia podzielone będą na przedmioty obowiązkowe i wybieralne. Przedmioty obowiązkowe podniosą Twoje kompetencji i umiejętności w podstawowych obszarach Sztucznej Inteligencji (np. uczenie głębokie, ucznie maszynowe, optymalizacja, NLP). Zajęcia wybieralne wyspecjalizują wiedzę i umiejętności w problemach i zastosowaniach sztucznej inteligencji (np. analiza mediów cyfrowych, analiza sieci złożonych, analiza dźwięku, analiza obrazów i wideo, informatyka afektywna, systemy rekomendacyjne, przetwarzanie danych przestrzennych, biometria, prywatność).

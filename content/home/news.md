@@ -5,7 +5,7 @@ headless: true
 weight: 20
 active: true
 
-title: O kierunku Sztuczna Inteligencja
+title: Studia AI - Newsy
 subtitle:
 
 content:
@@ -18,7 +18,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: eng-post
+  page_type: blog
 design:
   view: 3
   columns: "1"

@@ -8,8 +8,8 @@ subtitle: "Twoja przyszłość z AI @ PWr"
 design:
   columns: "1"
   background:
-    color: "#5a6268"
-    text_color_light: true
+    color: "#ffffff"
+    text_color_light: false
   spacing:
     padding:
       - 40px
@@ -18,9 +18,7 @@ design:
       - "0"
 ---
 
-## Sztuczna inteligencja @ PWr 
-
-Nasz program to unikatowe połączenie solidnych podstaw informatycznych z praktycznym podejściem do najnowszych technologii AI.
+Nasz kierunek to unikatowe połączenie solidnych podstaw informatycznych z praktycznym podejściem do najnowszych technologii AI.
 
 <div class="block-container">
   <div class="block-group">
