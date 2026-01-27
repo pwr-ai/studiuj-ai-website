@@ -2,10 +2,14 @@
 widget: hero
 active: true
 cta:
-  url: https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/sztuczna_inteligencja/
-  label: Rekrutacja
-  icon_pack: fas
-  icon: sign-in-alt
+  - url: https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/sztuczna_inteligencja/
+    label: Rekrutacja I stopień
+    icon_pack: fas
+    icon: sign-in-alt
+  - url: https://rekrutacja.pwr.edu.pl/wyszukiwarka-kierunkow-studiow/sztuczna-inteligencja/
+    label: Rekrutacja II stopień
+    icon_pack: fas
+    icon: sign-in-alt
 widget_id: banner
 headless: true
 weight: 5
