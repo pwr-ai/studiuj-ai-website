@@ -20,4 +20,4 @@ design:
     text_color_light: true
 hero_media: KSI_logo_color_h_pl_med.png
 ---
-Zapraszamy na dzień otwarty Kierunku Sztuczna Inteligencja - 02 luty 2026. [Szczegóły](/blog/dzien_otwarty_wydzial_2025/)
+Zapraszamy na dzień otwarty Kierunku Sztuczna Inteligencja - 23 marca 2026. [Szczegóły](https://wit.pwr.edu.pl/aktualnosci/dzien-otwarty/edycja-2026/program-2.html)
